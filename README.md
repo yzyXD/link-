@@ -1,3 +1,4 @@
+https://yzyxd.github.io/link-/
 # YZY Profile — GitHub Pages
 
 This version is **100% static**. It does not use Node.js, `server.js`, an Admin page, `/api`, or Terminal commands.
